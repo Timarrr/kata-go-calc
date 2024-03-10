@@ -1,0 +1,1 @@
+### Kata Academy test case #1, by tigrmango@gmail.com
